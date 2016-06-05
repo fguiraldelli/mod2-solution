@@ -26,7 +26,8 @@ h2{
   border: 2px solid black;
   position: absolute;
   top: 0px; right: 0px;
-}
+  margin: -2px;
+ }
 
 #h2-1{
   background-color: #d88f98;
